@@ -29,7 +29,7 @@ Simple mechanics, endless fun.
 ## 🧠 Development Notes
 
 This project represents my **first steps in Unity game development**, made under the guidance of  
-[**Game Maker’s Toolkit** on YouTube](https://www.youtube.com/@GMTK).  
+[**Game Maker’s Toolkit** on YouTube](https://www.youtube.com/watch?v=XtQMytORBmM&t=4s).  
 
 While the base concept follows the tutorial’s structure, the final game includes my **own custom features and improvements** such as procedural cloud generation, sound system, and scoring persistence.
 
