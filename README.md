@@ -15,6 +15,10 @@ Simple mechanics, endless fun.
 
 ---
 
+You can download the game for free on [here](https://rbt-ghost.itch.io/skybouncer).
+
+---
+
 ## 🧩 Features
 
 - ☁️ **Procedural Cloud Generation** – Dynamic cloud spawning and rendering system.  
